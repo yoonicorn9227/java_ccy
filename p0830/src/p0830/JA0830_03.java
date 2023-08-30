@@ -8,6 +8,7 @@ public class JA0830_03 { // 클래스 이름은 대문자로 쓴다.
 		int temp = 0; // 변수는 선언한 후에 반드시 값이 들어가야함, 값이 들어가기전에 사용시 에러발생
 		// int (while, for, system true등)은 예약어로 사용x
 		// 합성어 쓸경우 특수문자 사용( _나 $ 사용) -> (예시) int company_intro / int companyIntro
+		int temp2 = 0;
 		System.out.println(num1 + num2);
 		System.out.println(num1 - num2);
 		System.out.println(num1 * num2);
