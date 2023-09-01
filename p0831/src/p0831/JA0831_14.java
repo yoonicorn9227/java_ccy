@@ -33,6 +33,8 @@ public class JA0831_14 {
 		int j = 1;
 		i = i + j; //i = 2
 		// i+=j; 는 <i=i+j>의 축약표현
+		
+		
 
 	}
 
